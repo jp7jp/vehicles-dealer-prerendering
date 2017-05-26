@@ -97,9 +97,10 @@ html, body, #root, .App {
 }
 
 .home .carousel {
-  background: red;
+  background: lightgray;
   margin: 0 -15px;
   height: calc(100% - 50px);
+  padding: 20px;
 }
 
 .home .buttons > div > div {
